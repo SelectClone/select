@@ -249,3 +249,11 @@
     top: 5cm;
     left: 14cm;
 }
+
+.txtjogoswordwall{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: relative;
+    top: 6cm;
+    left: 2cm;
+}
