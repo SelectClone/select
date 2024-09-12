@@ -26,6 +26,15 @@
     
 }
 
+.txtmenu4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: #004aad;
+    position: fixed;
+    top: 10cm;
+    left: 2cm;
+
+}
 .home{
     font-family: Arial, Helvetica, sans-serif;
     color: #000000;
